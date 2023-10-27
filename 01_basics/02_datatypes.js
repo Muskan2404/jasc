@@ -26,7 +26,6 @@ let State;
 //null => standalone value
 //undefined =>
 //symbol => for uniqueness
-
 //object
 
 console.log(typeof undefined); //undefined is a type
